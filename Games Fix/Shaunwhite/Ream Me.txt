@@ -1,0 +1,3 @@
+Just copy it in:
+
+C:\ProgramData\Ubisoft\SWSnow
